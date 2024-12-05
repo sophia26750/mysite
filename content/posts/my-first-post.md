@@ -1,7 +1,7 @@
----
-title: "My First Poem"
-date: 2024-12-01T20:44:00-08:00
-draft: true
+--- 
+title: "My First Poem" 
+date: 2024-12-01T20:44:00-08:00 
+draft: false 
 ---
 
 # A Starlit Night
